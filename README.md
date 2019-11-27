@@ -19,11 +19,13 @@ Global Ignore List，[插件介绍和下载地址](https://www.curseforge.com/wo
 
 数据手工维护，只添加飞机场号。不定期更新。
 
-[匕首岭-联盟 下载地址]([https://raw.githubusercontent.com/flyingghost/airport-ignore-list/master/%E5%8C%95%E9%A6%96%E5%B2%AD-%E8%81%94%E7%9B%9F/GlobalIgnoreList.lua](https://raw.githubusercontent.com/flyingghost/airport-ignore-list/master/匕首岭-联盟/GlobalIgnoreList.lua))
 
-下载后放在`【World of Warcraft】/_classic_/WTF/Account/【你的wow账号】/SavedVariables/`目录下。
 
-重启客户端即可生效。
+[匕首岭-联盟 下载点这里](https://raw.githubusercontent.com/flyingghost/airport-ignore-list/master/匕首岭-联盟/GlobalIgnoreList.lua)，地址为`https://raw.githubusercontent.com/flyingghost/airport-ignore-list/master/%E5%8C%95%E9%A6%96%E5%B2%AD-%E8%81%94%E7%9B%9F/GlobalIgnoreList.lua`，可以使用任何下载工具直接下载保存。
+
+
+
+下载后把`GlobalIgnoreList.lua`文件放在`【World of Warcraft】/_classic_/WTF/Account/【你的wow账号】/SavedVariables/`目录下，重启客户端即可生效。
 
 ## 后语
 
